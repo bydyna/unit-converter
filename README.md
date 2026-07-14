@@ -36,14 +36,12 @@ The Temperature Converter is a simple C++ console application that converts temp
 - Implement function overloading for additional conversion options.
 
 # How to Run the Project
-Step 1: Open the project in Visual Studio Code or any C++ IDE.
-Step 2: Compile the program using a C++ compiler.
-Step 3: Run the program.
-Step 4: Select:
-        1 for Celsius to Fahrenheit
-        2 for Fahrenheit to Celsius
-Step 5: Enter the temperature.
-Step 6: View the converted result.
+- Step 1: Open the project in Visual Studio Code or any C++ IDE.
+- Step 2: Compile the program using a C++ compiler.
+- Step 3: Run the program.
+- Step 4: Select: **1** for Celsius to Fahrenheit; **2** for Fahrenheit to Celsius
+- Step 5: Enter the temperature.
+- Step 6: View the converted result.
 
 # Sample Output 
 ![image alt](https://github.com/bydyna/unit-converter/blob/8b46744099d6a8dc90f918019054238978283d4d/Screenshot%202026-07-14%20181743.png)
