@@ -4,7 +4,7 @@ The Temperature Converter is a simple C++ console application that converts temp
 # Technologies Used
 - C++
 - Visual Studio Code
-- C++ Standard Library (`iostream`)
+- C++ Standard Library (iostream)
 
 # Concepts Used
 - Functions - Created separate functions for converting Celsius to Fahrenheit and Fahrenheit to Celsius.
