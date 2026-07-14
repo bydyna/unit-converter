@@ -47,3 +47,5 @@ Step 6: View the converted result.
 
 # Sample Output 
 ![image alt](https://github.com/bydyna/unit-converter/blob/8b46744099d6a8dc90f918019054238978283d4d/Screenshot%202026-07-14%20181743.png)
+![image alt](https://github.com/bydyna/unit-converter/blob/8c4e0a6bd9b66972bc622c750fa0d42e323b9f2e/Screenshot%202026-07-14%20181806.png)
+![image alt](https://github.com/bydyna/unit-converter/blob/8c4e0a6bd9b66972bc622c750fa0d42e323b9f2e/Screenshot%202026-07-14%20181822.png)
