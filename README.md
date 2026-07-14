@@ -46,3 +46,4 @@ Step 5: Enter the temperature.
 Step 6: View the converted result.
 
 # Sample Output 
+![image alt](https://github.com/bydyna/unit-converter/blob/8b46744099d6a8dc90f918019054238978283d4d/Screenshot%202026-07-14%20181743.png)
